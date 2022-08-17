@@ -17,7 +17,6 @@ bool Palindrome(int num)
         }
     }
     return result;
-
 } 
 
 int number = ReadInt("Введите пятизначное число: ");
